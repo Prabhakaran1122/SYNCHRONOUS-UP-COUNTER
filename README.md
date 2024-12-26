@@ -48,5 +48,5 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 # TIMING DIAGRAM FOR IP COUNTER
 ![Screenshot 2024-12-23 104058](https://github.com/user-attachments/assets/85c81276-adbc-4421-a67f-810cd66d034a)
 
-# RESULTS
+# RESULT
 Implemented 4 bit synchronous up counter and validate functionality.
